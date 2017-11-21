@@ -1,0 +1,38 @@
+    
+  
+    
+  .navbar {
+    background: #f65b60;
+    color: #fff;
+}
+
+.navbar-header {
+    color: #fff;
+}
+
+.nav-brand {
+    color: white;
+}
+
+#logo {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #f65b60;
+}
+
+.panel-body {
+    text-align: center;
+}
+
+.panel {
+    margin-top: 90px;
+    
+}
